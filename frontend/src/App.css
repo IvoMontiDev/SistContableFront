@@ -1,0 +1,51 @@
+/* src/App.css */
+
+#root{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.App {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  color: #424242;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  margin: 5px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #424242;
+  text-align: left;
+}
